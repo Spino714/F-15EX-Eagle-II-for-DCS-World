@@ -1,2 +1,64 @@
 # F-15EX-Eagle-II-for-DCS-World
-The F-15EX is the latest development of the F-15E Strike Eagle for the US Air Force.
+The F-15EX is the latest development of the F-15E Strike Eagle for the US Air Force.  My goal is to re-create the F-15EX in DCS World as realistically as possible, with some creative license allowing for new missiles currently in development.
+Credits:
+Liveries: AWACS_Bandog, Vasy
+Weapons: currenthill, Spino
+Beta Testing: Infidel, Emerald 467, Tyrant
+
+V1.8.5 Changelog
+
+	FM:
+	- Fixed misbehaving FM from V1.72
+	- Reverted engine data table to V1.71 config
+	- Corrected engine data based on beta test feedback
+
+	Liveries:
+	- Added F-15EX AF001-004 revamped liveries by Vasy
+	- Added F-15EX TDCS Camo by Vasy
+	- Added F-15EX 58th TFS Gorillas by AWACS_bandog
+
+	Weapons:
+	- Adjusted position of AIM-200A Peregrine on launcher
+	- Reduced AIM-200A warhead size
+	- Adjusted position of Peregrine launchers
+
+	Models:
+	- Added MAWS fairings and Legion pod to EPAWSS vismod
+	- Corrected normals on left outer pylon
+
+	Systems:
+	- Added AN/APG-82v1 radar with greatly improved detection range
+	- Added AN/ALQ-250 EPAWSS
+
+V1.71 Release Changelog
+
+	Model:
+	- Changed to F-15E S4+ model
+	- Added EPAWSS model (changes tail boom configuration and adds outer wing pylons, uses centerline station)
+	
+	Liveries:
+	- Added F-15EX Prototype 1 and 2 liveries (Vasy)
+	- Added F-15EX Production Line Green livery (Vasy)
+	- Added F-15EX 58th FS "Gorillas" fictional livery (AWACS_Bandog)
+	- Added ANG Livery Pack (separate download)
+	- Added Export Livery Pack (separate download)
+
+	Systems:
+	- Expanded countermeasures carriage (up to 360 chaff or 180 flares)
+	
+	Weapons:
+	- Re-worked loadouts allow for increased weapons options on outer wings, at the cost of the centerline station
+	- Added AIM-260A JATM (limited to 8 due to issues with double rail launchers)
+	- Added some precision guided air to ground weapons (usable only by AI, some weapons require other mods)
+	- Added CFT loadouts from the F-15E, enables carriage of 12 BLU-107, CBU-87/97, Mk-20, or Mk-82 bombs.
+	- Added EPAWSS tail gear and outer wing pylons (uses station 6 and precludes carriage of centerline drop tank)
+	- Added AIM-9X and AIM-120 single options for outer wing pylons
+	- Added AGM-88C HARM to wing stations (only usable by AI)
+	- Added AIM-200A Peregrine Compact Medium Range Air to Air Missile (CMRAAM)
+
+	Other:
+	- Renamed mod to F-15EX, so it no longer shows up as VSN_F15_AA
+	- Fixed an issue causing a default set of payloads to appear with AIM-7 and other older missiles
+	- Removed model accidentally included without permission
+
+
